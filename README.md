@@ -1,3 +1,7 @@
+# Note 
+
+I've used rc-tree package , according to it while deleting node pleace don't click on node to be deleted or parent folder to be deleted. Make sure that the node is not selected while deleting it. And if you create a node and not able to see it just select any random node and click on it again to de-select it. Then you will be able to create new nodes. I tried to fix it but it is just default working of package I've used.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
